@@ -82,8 +82,8 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir um problema ou entrar em contato:
 
 - **Meu Perfil na GitHub:** [https://github.com/mario-evangelista](https://github.com/mario-evangelista)
-- **[LinkedIn]** (https://www.linkedin.com/in/marioevangelista)
-- **Mário Evangelista** [mariojbe@gmail.com](mailto:mario@gmail.com)
+- **[LinkedIn]:** (https://www.linkedin.com/in/marioevangelista)
+- **Email** [mariojbe@gmail.com](mailto:mario@gmail.com)
 - **Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
 
 
