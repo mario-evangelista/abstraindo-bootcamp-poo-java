@@ -1,5 +1,7 @@
 # Bootcamp Java Developer
 
+Desafio de Códico - Abstraindo um Bootcamp Usando Orientação a Objetos em Java - Santander Dev Week 2024 - Backend com Java
+
 Este é um projeto de exemplo para o desafio de "Aprenda na Prática Programação Orientada a Objetos" com Java, fornecido pela Digital Innovation One. O objetivo é aplicar os principais conceitos da Programação Orientada a Objetos (POO), como Abstração, Encapsulamento, Herança e Polimorfismo, em um projeto prático.
 
 ## 📜 Descrição
@@ -83,6 +85,9 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir um pr
 
 - [Mário Evangelista](https://github.com/mario-evangelista)
 - [LinkedIn](https://www.linkedin.com/in/marioevangelista)
+- **Mário Evangelista** - [mariojbe@gmail.com](mailto:mario@gmail.com)
+- **Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
+
 
 ---
 
