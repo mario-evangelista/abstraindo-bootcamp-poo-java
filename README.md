@@ -12,9 +12,7 @@ Este projeto modela um sistema de gerenciamento de Bootcamps, onde é possível 
 
 - Conhecimento básico da sintaxe do Java
 - Java JDK 17
-- IDE para desenvolvimento Java (IntelliJ, Eclipse, etc.)
-- Git
-- Conta no GitHub
+- IDE para desenvolvimento Java (IntelliJ, Eclipse, NetBeans, etc.)
 
 ## 🚀 Começando
 
