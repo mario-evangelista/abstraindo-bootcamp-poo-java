@@ -83,7 +83,7 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir um pr
 
 - **Meu Perfil no GitHub:** [https://github.com/mario-evangelista](https://github.com/mario-evangelista)
 - **Meu Perfil no LinkedIn:** [https://www.linkedin.com/in/marioevangelista](https://www.linkedin.com/in/marioevangelista)
-- **Email** [mariojbe@gmail.com](mailto:mario@gmail.com)
+- **Email:** [mariojbe@gmail.com](mailto:mario@gmail.com)
 - **Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
 
 
