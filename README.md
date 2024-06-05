@@ -9,7 +9,7 @@ Este projeto modela um sistema de gerenciamento de Bootcamps, onde é possível 
 ## 🛑 Pré-Requisitos
 
 - Conhecimento básico da sintaxe do Java
-- Java JDK 11
+- Java JDK 17
 - IDE para desenvolvimento Java (IntelliJ, Eclipse, etc.)
 - Git
 - Conta no GitHub
@@ -20,11 +20,11 @@ Este projeto modela um sistema de gerenciamento de Bootcamps, onde é possível 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bootcamp-java-developer.git
+   git clone https://github.com/mario-evangelista/abstraindo-bootcamp-poo-java.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd bootcamp-java-developer
+   cd abstraindo-bootcamp-poo-java
    ```
 3. Abra o projeto em sua IDE preferida.
 
@@ -81,18 +81,9 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir um problema ou entrar em contato:
 
-- [Seu Nome](https://github.com/seu-usuario)
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [Mário Evangelista](https://github.com/mario-evangelista)
+- [LinkedIn](https://www.linkedin.com/in/marioevangelista)
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
-```
-
-### Instruções Adicionais
-
-- Substitua `seu-usuario` com seu nome de usuário no GitHub.
-- Atualize os links e informações de contato conforme necessário.
-- Adicione uma licença ao seu repositório e atualize o link para o arquivo de licença no `README.md`.
-
-Este `README.md` oferece uma visão clara e estruturada do seu projeto, ajudando outros desenvolvedores a entender, instalar e utilizar seu código.
+Feito com ❤️ por [Mário Evangelista](https://github.com/mario-evangelista)
